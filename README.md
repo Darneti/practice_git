@@ -1,1 +1,2 @@
-# practice_git
+# darneti.github.io
+My first site
